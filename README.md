@@ -12,7 +12,8 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Explain each function, what goes in, and what comes back. Then show choice 1, choice 2, and quit.
 
-**Your demo:** _add your link here_
+**Your demo:** [screen-capture (18).webm](https://github.com/user-attachments/assets/609dff58-6e1e-468c-9835-fe9e1de4bc94)
+
 
 
 ## What to build
